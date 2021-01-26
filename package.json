@@ -1,0 +1,28 @@
+{
+  "name": "biz-card",
+  "version": "1.0.0",
+  "description": "this is my card",
+  "main": "index.js",
+  "bin": {
+    "biz-card": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "NPM",
+    "Business",
+    "Card",
+    "Node"
+  ],
+  "author": "mundher",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.3.1"
+  }
+}
